@@ -10,3 +10,11 @@ Development and Testing Environments
 ```
 https://www.youtube.com/watch?v=pTFZFxd4hOI
 ```
+
+# 1. OCR Javascript
+Purpose: Image to Text
+
+# Guide
+```
+[https://www.youtube.com/watch?v=pTFZFxd4hOI](https://github.com/naptha/tesseract.js#tesseractjs)
+```
